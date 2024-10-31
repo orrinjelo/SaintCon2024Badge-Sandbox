@@ -1,0 +1,2 @@
+flash_1M.bin filter=lfs diff=lfs merge=lfs -text
+flash_4M.bin filter=lfs diff=lfs merge=lfs -text
